@@ -36,6 +36,7 @@ main{
 
 h2{
   border-bottom: 3px dotted rgb(236, 122, 122);
+  font-size: 25px;
 }
 
 h2::before{
